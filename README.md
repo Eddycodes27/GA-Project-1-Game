@@ -6,17 +6,15 @@ Story or main idea and title are still a work in progress.
 
 Menu screen will initiate music. Moving background to represent space. Display Start game button. Choosing Start game will initiate the first level.
 
-Initial Screen Image
+![Asteroid Game - Initial Screen](https://i.imgur.com/0bgndtv.png)
 
 Airship will be able to go around the whole screen, same with bullets. No limitations. Enemies on the other hand will be fixed to a certain position on every level.
 
 There will be no limit to bullets. Every bullet that makes contact with an enemy will add to the score and decrease enemy health.
 
-Level 1 Image
+![Asteroid Game - First Level_](https://i.imgur.com/n116pFE.png)
 
 Tech Stack: HTML CSS Javascript
-
-
 
 MVP
 
