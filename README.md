@@ -19,10 +19,9 @@ Tech Stack: HTML CSS Javascript
 MVP
 
 •A working initial screen to start game
-•An HUD with health status, current score and current level
-•A moving space background
+•An HUD w current score and current level
 •An airship controlled by player
-•Enemies that block path of player airship
+•Enemies that block path of player airship and approach player
 
 Stretch Goals
 
@@ -31,4 +30,6 @@ Stretch Goals
 •A "just to enjoy the music" mode in the initial screen
 •More levels
 •A floating rubber duck
+•Update HUD to display and keep health updated
+•A moving space background
 
